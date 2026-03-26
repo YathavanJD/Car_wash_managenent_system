@@ -1,2 +1,2 @@
 # Car_wash_managenent_system
-Car Wash Management System is a Java-based application developed for an Object-Oriented Programming (OOP) project. The system uses core OOP concepts such as classes, objects, inheritance, and encapsulation to manage car wash services, customer details, and service records efficiently
+Car Wash Management System is a Java-based application developed for an Object-Oriented Programming (OOP) project. The system uses core OOP concepts such as classes, objects, inheritance, and encapsulation to manage car wash services, customer details, and service records efficiently.The project demonstrates how OOP principles can be applied to build a structured and maintainable software solution.
